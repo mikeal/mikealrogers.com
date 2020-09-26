@@ -1,0 +1,1 @@
+# Thoughts on DAG-CBOR
